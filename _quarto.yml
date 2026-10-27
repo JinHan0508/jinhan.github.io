@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - teaching.qmd
+    - cv.qmd
+
+website:
+  title: "HAN Jin (韩瑾)"
+  site-url: "https://jinhan0508.github.io/jinhan.github.io/"
+  description: "HAN Jin — PhD student in Economics at The Chinese University of Hong Kong. Research interests in Law and Economics, Judicial Transparency, and Economic Development."
+  search: false
+  navbar:
+    background: light
+    collapse-below: md
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "HAN Jin (韩瑾) · Economics"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    mainfont: "Georgia, 'Times New Roman', 'Noto Serif CJK SC', serif"
+    fontsize: 18px
+    linestretch: 1.65
+    linkcolor: "#173e64"
+    anchor-sections: false
+    smooth-scroll: false
+
+lang: en

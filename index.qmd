@@ -1,0 +1,31 @@
+---
+title: "HAN Jin (韩瑾)"
+description: "PhD student in Economics at The Chinese University of Hong Kong."
+---
+
+::: {.home-intro}
+::: {.intro-text}
+I am a PhD student in Economics at The Chinese University of Hong Kong.
+
+My research interests include Law and Economics, Judicial Transparency, and Economic Development.
+
+You can find my research interests on the [Research](research.qmd) page and information about my academic background on the [CV](cv.qmd) page.
+:::
+
+::: {.profile-details}
+## Affiliation
+
+Economics\
+The Chinese University of Hong Kong
+
+## Contact
+
+[jinhan@link.cuhk.edu.hk](mailto:jinhan@link.cuhk.edu.hk)
+
+## Research interests
+
+- Law and Economics
+- Judicial Transparency
+- Economic Development
+:::
+:::
