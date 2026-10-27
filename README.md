@@ -9,6 +9,7 @@ Quarto 学术主页，使用 GitHub Pages 发布。页面使用英文，维护�
 - `teaching.qmd`：教学资料页面，待提供资料后补充。
 - `cv.qmd`：已确认的在读身份和研究方向。
 - `styles.css`：白底、深蓝链接、衬线字体和移动端布局。
+- `theme.scss`：使用系统字体，关闭主题默认的外部字体加载。
 - `_quarto.yml`：导航、网站标题和输出设置。
 
 当前公开内容仅使用已确认信息：姓名 HAN Jin (韩瑾)、香港中文大学经济学博士研究生、邮箱 jinhan@link.cuhk.edu.hk，以及 Law and Economics、Judicial Transparency、Economic Development 三个研究方向。没有添加未经确认的论文、教学经历、入学年份、个人照片或其他学历。
